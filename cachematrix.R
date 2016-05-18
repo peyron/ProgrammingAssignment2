@@ -1,5 +1,5 @@
 ## makeCacheMatrix() and cacheSolve() together executes matrix inversion and cashes the resulting
-## inverse and if a try to solve for the inversion that has already been solved for the cached
+## inverse and if an attempt is made to solve for the inversion that has already been solved for the cached
 ## inverse is returned to avoid repeating the same calculation
 
 
